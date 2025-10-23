@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Olá! Eu sou o Victor Guíngaro
 
-<!--
-**guingaro58/guingaro58** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Engenheiro Eletrônico em transição para QA | Testes Manuais e Automação  
+💻 Apaixonado por tecnologia, aprendizado contínuo e qualidade de software  
 
-Here are some ideas to get you started:
+<!-- ## 🚀 Tecnologias e Ferramentas
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python)
+![Selenium](https://img.shields.io/badge/-Selenium-success?style=flat-square&logo=selenium) -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+<!-- ## 🌱 Projetos em destaque
+- [🧪 Repositório QA](https://github.com/victorguingaro/qa-studies)
+- [📊 Dashboard de Monitoramento](https://github.com/victorguingaro/dashboard-project) -->
+
+## 📫 Contato
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/victor-guingaro)
+[![Gmail](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail)](mailto:guingaro58@gmail.com)
