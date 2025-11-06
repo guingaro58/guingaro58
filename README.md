@@ -25,7 +25,7 @@ Todo esse aprendizado resultou em um portfólio de repositórios que compartilha
 ## Experiência prática e mentoria
 
 Ainda que eu não tenha atuado formalmente em uma empresa, tive a oportunidade de:
-- Trabalhar lado a lado de uma profissional QA Sênior [ver perfil](https://github.com/oliveiraandressa), que tem me mentorado desde o início da jornada.  
+- Trabalhar lado a lado de uma profissional [QA Sênior](https://github.com/oliveiraandressa), que tem me mentorado desde o início da jornada.  
 - Apoiar tarefas de QA em projetos reais, aplicando técnicas de análise de requisitos, testes exploratórios, criação de casos de teste e documentação de bugs.  
 - Participar de **discussões de refinamento**, ajudando a pensar em qualidade **antes do código nascer**.  
 
