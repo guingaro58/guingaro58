@@ -75,6 +75,13 @@ Busco ser o QA que:
 
 ---
 
+## 📊 Estatísticas do GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=guingaro58&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guingaro58&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
 ## 💬 Mensagem final
 
 Meu objetivo é simples:  
